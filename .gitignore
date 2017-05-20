@@ -1,0 +1,7 @@
+*.iml
+.DS_Store
+.svn
+target/
+#src/main/assembly
+src/main/resources
+.idea/
